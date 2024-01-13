@@ -2,7 +2,7 @@ import  {createClient}  from '@sanity/client'
 import imageUrlBuilder from '@sanity/image-url'
 
 const client =createClient({
-    projectId :"4upfyebn",
+    projectId :{Add_Your_Project_ID_Here},
     dataset: "production",
     useCdn: true,
     apiVersion:"2021-10-21",
