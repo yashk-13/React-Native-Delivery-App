@@ -22,4 +22,4 @@ Connect to your device or emulator :)
 
 ## Acknowledgments
 
-thanks to contributor yt/Sonny Sangha, sanity.io for the project.
+Thanks for visiting,feel free to have a chat about the application.
